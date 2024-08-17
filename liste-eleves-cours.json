@@ -1,0 +1,18 @@
+[
+	{
+		"id_etudiant": "00",
+		"nom": "Aucun étudiant sélectionné",
+		"session": "1",
+		"cours": []
+	},
+	{ "id_etudiant": "01", "nom": "Jean", "session": "1", "cours": ["Prog1"] },
+	{ "id_etudiant": "02", "nom": "Alice", "session": "2", "cours": ["Prog2"] },
+	{ "id_etudiant": "03", "nom": "Marc", "session": "1", "cours": ["Math1"] },
+	{ "id_etudiant": "04", "nom": "Sophie", "session": "2", "cours": ["Hist2"] },
+	{ "id_etudiant": "05", "nom": "David", "session": "3", "cours": ["Bio3"] },
+	{ "id_etudiant": "06", "nom": "Julie", "session": "1", "cours": ["Chim1"] },
+	{ "id_etudiant": "07", "nom": "Thomas", "session": "2", "cours": ["Phys2"] },
+	{ "id_etudiant": "08", "nom": "Clara", "session": "3", "cours": ["Art3"] },
+	{ "id_etudiant": "09", "nom": "Lucas", "session": "1", "cours": ["Info1"] },
+	{ "id_etudiant": "10", "nom": "Emma", "session": "2", "cours": ["Eco2"] }
+]
