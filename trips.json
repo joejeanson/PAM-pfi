@@ -67,7 +67,7 @@
       {"depart": "Southampton, Angleterre", "nbreJours": "14", "destination": "Iles Britanniques", "surPageAccueil": 1},
       {"depart": "Halifax", "nbreJours": "10", "destination": "Canada et Nouvelle-Angleterre", "surPageAccueil": 1},
       {"depart": "Montréal", "nbreJours": "8", "destination": "Croisière Saint-Laurent et Îles-de-la-Madeleine", "surPageAccueil": 0},
-      {"depart": "Tokyo", "nbreJours": "9", "destination": "Japon et Corée", "surPageAccueil": 0},
+      {"depart": "Tokyo", "nbreJours": "9", "destination": "Japon et Corée", "surPageAccueil": 0}
     ]
   }
 ]
