@@ -7,41 +7,67 @@
       {"depart": "Dubai", "nbreJours": "11","destination":"Asie", "surPageAccueil":0},
       {"depart": "Dubai", "nbreJours": "5","destination":"Moyen Orient", "surPageAccueil":0},
       {"depart": "Barcelone", "nbreJours": "7","destination":"Afrique Centrale", "surPageAccueil":0},
-      {"depart": "Barcelone", "nbreJours": "13","destination":"Europe du Nord", "surPageAccueil":0}
+      {"depart": "Barcelone", "nbreJours": "13","destination":"Europe du Nord", "surPageAccueil":0},
+      {"depart": "New York", "nbreJours": "10", "destination":"Canada et Nouvelle-Angleterre", "surPageAccueil":1},
+      {"depart": "Venise", "nbreJours": "7", "destination":"Mer Adriatique", "surPageAccueil":0},
+      {"depart": "Auckland", "nbreJours": "14", "destination":"Pacifique Sud", "surPageAccueil":0},
+      {"depart": "Honolulu", "nbreJours": "7", "destination":"Hawaï", "surPageAccueil":1},
+      {"depart": "Montréal", "nbreJours": "10", "destination":"Saint-Laurent et Atlantique", "surPageAccueil":1},
+      {"depart": "Québec", "nbreJours": "7", "destination":"Canada Atlantique", "surPageAccueil":0},
+      {"depart": "Miami", "nbreJours": "15", "destination":"Amérique du Sud", "surPageAccueil":0},
+      {"depart": "Buenos Aires", "nbreJours": "18", "destination":"Patagonie", "surPageAccueil":0},
+      {"depart": "Tokyo", "nbreJours": "10", "destination":"Corée du Sud et Japon", "surPageAccueil":1}
     ]
   },
   {
     "cruiseLine": "Carnival Cruise Line",
     "croisieres": [
-      { "depart":"Seattle, WA", "nbreJours":"15","destination":"Alaska", "surPageAccueil":1},
-      {"depart": "Orlando, FL", "nbreJours":"5","destination":"Bahamas", "surPageAccueil":1},
-      {"depart":"Miami, F", "nbreJours":"7","destination":"Mexique", "surPageAccueil":0},
-      {"depart": "Sydney, Australie","nbreJours": "9","destination":"Nouvelle Zélande", "surPageAccueil":0}
+      {"depart": "Seattle, WA", "nbreJours": "15", "destination": "Alaska", "surPageAccueil": 1},
+      {"depart": "Orlando, FL", "nbreJours": "5", "destination": "Bahamas", "surPageAccueil": 1},
+      {"depart": "Miami, FL", "nbreJours": "7", "destination": "Mexique", "surPageAccueil": 0},
+      {"depart": "Sydney, Australie", "nbreJours": "9", "destination": "Nouvelle Zélande", "surPageAccueil": 0},
+      {"depart": "Los Angeles, CA", "nbreJours": "14", "destination": "Panama", "surPageAccueil": 1},
+      {"depart": "San Juan, Porto Rico", "nbreJours": "7", "destination": "Caraïbes", "surPageAccueil": 0},
+      {"depart": "Galveston, TX", "nbreJours": "8", "destination": "Caraïbes occidentales", "surPageAccueil": 0},
+      {"depart": "San Diego, CA", "nbreJours": "5", "destination": "Basse-Californie", "surPageAccueil": 1},
+      {"depart": "Brisbane, Australie", "nbreJours": "10", "destination": "Fidji", "surPageAccueil": 0},
+      {"depart": "Montréal", "nbreJours": "12", "destination": "Groenland", "surPageAccueil": 1},
+      {"depart": "Halifax", "nbreJours": "7", "destination": "Canada Atlantique", "surPageAccueil": 0},
+      {"depart": "Miami", "nbreJours": "14", "destination": "Transatlantique vers l'Europe", "surPageAccueil": 0},
+      {"depart": "Tampa, FL", "nbreJours": "10", "destination": "Caraïbes méridionales", "surPageAccueil": 1}
     ]
   },
   {
     "cruiseLine": "Celebrity",
     "croisieres": [
-      {"depart": "Miami,Fl", "nbreJours": "7","destination":"Caraibes", "surPageAccueil":1},
-      {"depart": "Singapour", "nbreJours": "12","destination":"Asie", "surPageAccueil":0}, 
-      {"depart": "Vancouver, BC", "nbreJours": "7","destination":"Alaska", "surPageAccueil":1},
-      {"depart": "Miami, Fl", "nbreJours": "12","destination":"Mexique", "surPageAccueil":0}
+      {"depart": "Miami, FL", "nbreJours": "7", "destination": "Caraibes", "surPageAccueil": 1},
+      {"depart": "Singapour", "nbreJours": "12", "destination": "Asie", "surPageAccueil": 0},
+      {"depart": "Vancouver, BC", "nbreJours": "7", "destination": "Alaska", "surPageAccueil": 1},
+      {"depart": "Miami, FL", "nbreJours": "12", "destination": "Mexique", "surPageAccueil": 0},
+      {"depart": "Fort Lauderdale, FL", "nbreJours": "14", "destination": "Transatlantique", "surPageAccueil": 1},
+      {"depart": "Barcelone", "nbreJours": "11", "destination": "Méditerranée", "surPageAccueil": 0},
+      {"depart": "Copenhague", "nbreJours": "10", "destination": "Scandinavie et Russie", "surPageAccueil": 1},
+      {"depart": "Athènes", "nbreJours": "9", "destination": "Grèce et Îles Égéennes", "surPageAccueil": 0},
+      {"depart": "Montréal", "nbreJours": "14", "destination": "Transatlantique vers l'Europe", "surPageAccueil": 0},
+      {"depart": "Dubaï", "nbreJours": "10", "destination": "Moyen-Orient et Inde", "surPageAccueil": 0},
+      {"depart": "Québec", "nbreJours": "7", "destination": "Croisière fluviale du Saint-Laurent", "surPageAccueil": 1},
+      {"depart": "Toronto", "nbreJours": "9", "destination": "Grands Lacs", "surPageAccueil": 1}
     ]
   },
   {
     "cruiseLine": "Royal Caribbean",
-    "croisieres":[
-      { "depart":"Vancouver,BC", "nbreJours":"7","destination":"Alaska", "surPageAccueil":0},
-      {"depart": "Orlando, FL", "nbreJours":"5","destination":"Bahamas", "surPageAccueil":1},
-      {"depart":"Galveston, Texas,", "nbreJours":"7","destination":"Mexique", "surPageAccueil":1},
-      {"depart": "Sydney, Australie", "nbreJours":"7","destination":"Nouvelle Zélande", "surPageAccueil":0}
-      ]
-  },
-  {
-    "cruiseLine": "Holland America Line",
     "croisieres": [
-      {"depart": "Orlando, FL", "nbreJours":"5","destination":"Bahamas","surPageAccueil":1},
-      {"depart":"Miami, F", "nbreJours":"7","destination":"Mexique","surPageAccueil":1}
+      {"depart": "Vancouver, BC", "nbreJours": "7", "destination": "Alaska", "surPageAccueil": 0},
+      {"depart": "Orlando, FL", "nbreJours": "5", "destination": "Bahamas", "surPageAccueil": 1},
+      {"depart": "Galveston, Texas", "nbreJours": "7", "destination": "Mexique", "surPageAccueil": 1},
+      {"depart": "Sydney, Australie", "nbreJours": "7", "destination": "Nouvelle Zélande", "surPageAccueil": 0},
+      {"depart": "Miami, FL", "nbreJours": "4", "destination": "Cuba", "surPageAccueil": 0},
+      {"depart": "Port Canaveral, FL", "nbreJours": "7", "destination": "Antilles", "surPageAccueil": 0},
+      {"depart": "Shanghai", "nbreJours": "5", "destination": "Chine", "surPageAccueil": 1},
+      {"depart": "Southampton, Angleterre", "nbreJours": "14", "destination": "Iles Britanniques", "surPageAccueil": 1},
+      {"depart": "Halifax", "nbreJours": "10", "destination": "Canada et Nouvelle-Angleterre", "surPageAccueil": 1},
+      {"depart": "Montréal", "nbreJours": "8", "destination": "Croisière Saint-Laurent et Îles-de-la-Madeleine", "surPageAccueil": 0},
+      {"depart": "Tokyo", "nbreJours": "9", "destination": "Japon et Corée", "surPageAccueil": 0},
     ]
   }
 ]
